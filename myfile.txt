@@ -1,0 +1,2 @@
+d?n c? kh? cung bi?t git 
+pull: l?y n?i dung c?a remote repository
